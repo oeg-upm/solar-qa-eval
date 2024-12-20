@@ -168,7 +168,7 @@ The details for `evidence` part of the `result` from the output json:
 
 | Category | Definition | DataType | Example |
 | -------- | ------- | ------- | ------- |
-| similirity_score  | The similairty score between the query and correspond text provided to the embedding model | Float | 0.6205 |
+| similarity_score  | The similarity score between the query and correspond text provided to the embedding model | Float | 0.6205 |
 | pdf_reference | The original text that are extracted from the paper | String | in the conventional focusing... |
 | generated_fact | The generated facts based on the pdf_reference | String | Facts: 1. A homemade apparatus is used... |
 
